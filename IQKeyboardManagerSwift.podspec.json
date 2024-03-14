@@ -29,7 +29,7 @@
     "5.9"
   ],
   "source_files": "IQKeyboardManagerSwift/**/*.{swift, xcprivacy}",
-  "resource_bundles": {"IQKeyboardManagerSwift" => "IQKeyboardManagerSwift/PrivacyInfo.xcprivacy"},
+  "resource_bundles": "{'IQKeyboardManagerSwift' => 'IQKeyboardManagerSwift/PrivacyInfo.xcprivacy'}",
   "frameworks": [
     "UIKit",
     "Foundation",
