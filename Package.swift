@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/hackiftekhar/IQKeyboardNotification.git", from: "1.0.7"),
         .package(url: "https://github.com/hackiftekhar/IQTextInputViewNotification.git", from: "1.0.9"),
-        .package(url: "https://github.com/tianxiaxinyong/IQKeyboardToolbarManager.git", branch: "main"),
+        .package(url: "https://github.com/tianxiaxinyong/IQKeyboardToolbarManager.git", from: "1.2.0"),
         .package(url: "https://github.com/hackiftekhar/IQKeyboardReturnManager.git", from: "1.0.6"),
         .package(url: "https://github.com/hackiftekhar/IQTextView.git", from: "1.0.5")
     ],
